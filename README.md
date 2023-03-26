@@ -2,5 +2,5 @@
 - 👀 Sono fico
 - 🌱 Python è figo
 - 💞️ Etero (Non so neanche io perchè l'ho scritto)
-- 📫 discord: @Borgo#4460
+- 📫 discord: ! вσяgσ™#0001
 
