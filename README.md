@@ -1,4 +1,4 @@
-- 👋 Ciao sono @BorgoSupremo69
+- 👋 Ciao sono @Borgo
 - 👀 Sono fico
 - 🌱 Python è figo
 - 💞️ Etero (Non so neanche io perchè l'ho scritto)
