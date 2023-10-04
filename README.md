@@ -2,7 +2,7 @@
 ## Who am I?
 
 - 👋  I'm [borgox](https://github.com/borgox/)
-- 14 y/o
+- 15 y/o
 
 
 
@@ -10,6 +10,9 @@
 
 - [Python](https://python.org) is my main language
 - A bit of Javascript using [nodejs](https://nodejs.org/en)
+- Blueprints (beginner)
+- C++, Java (beginner)
 - HTML and CSS
+
 # Reach Me On:
-- 📫 discord: ! вσяgσ™#0001
+- 📫 discord: borgo.xy
